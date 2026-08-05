@@ -1,0 +1,14 @@
+filepath:
+  logs: "loggers/logs.log"
+  logs_err: "logs/logs_err.log"
+  out_path: "HOSxP"
+  watcher: "JPEG"
+  backup: "backup"
+  failed: "failed"
+format:
+  output: "{PREFIX}{ID}_{TIMESTAMP}_ekg{.ext}"
+length:
+  hn: 7
+  vn: 12
+  an: 9
+  cid: 13

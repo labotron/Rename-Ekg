@@ -1,0 +1,258 @@
+{"level":"info","timestamp":"2026-05-09T20:40:58+02:00","msg":"เริ่มระบบ Middleware Service... เฝ้าระวังโฟลเดอร์: C:\\rename/JPEG"}
+{"level":"info","timestamp":"2026-05-09T20:40:58+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"10min.pdf","new_name":"10_10min000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T20:40:58+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"112233445566.JPG","new_name":"112233445566_112233445566000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T20:40:58+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"20min.pdf","new_name":"20_20min000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T20:40:58+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"30min.pdf","new_name":"30_30min000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T20:40:58+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"40min.pdf","new_name":"40_40min000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T20:40:58+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"50min.pdf","new_name":"50_50min000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T20:40:58+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"60min.pdf","new_name":"60_60min000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T20:40:58+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"8572469.pdf","new_name":"8572469_8572469000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T20:40:58+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"857246912301_naitip_20260508165447.JPG","new_name":"857246912301_20260508165447000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T20:40:58+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"8572469_naitip_20260508164440.JPG","new_name":"8572469_20260508164440000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T20:40:58+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"8572469_naitip_20260508164945.JPG","new_name":"8572469_20260508164945000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T20:40:58+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"8572469_naitip_20260508165112.JPG","new_name":"8572469_20260508165112000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T20:40:58+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"c0000000000012_naitip_20260508165210.JPG","new_name":"c0000000000012_20260508165210000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T20:40:58+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"h123456789_naitip_20260508165426.JPG","new_name":"h123456789_20260508165426000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T20:47:16+02:00","msg":"เริ่มระบบ Middleware Service... เฝ้าระวังโฟลเดอร์: C:\\rename/JPEG"}
+{"level":"info","timestamp":"2026-05-09T20:47:31+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"10_10min000_nst.pdf","new_name":"10_nst000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T20:47:31+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"112233445566_112233445566000_nst.JPG","new_name":"112233445566_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T20:47:31+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"20_20min000_nst.pdf","new_name":"20_nst000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T20:47:31+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"30_30min000_nst.pdf","new_name":"30_nst000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T20:47:31+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"40_40min000_nst.pdf","new_name":"40_nst000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T20:47:31+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"50_50min000_nst.pdf","new_name":"50_nst000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T20:47:31+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"60_60min000_nst.pdf","new_name":"60_nst000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T20:47:31+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"857246912301_20260508165447000_nst.JPG","new_name":"857246912301_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T20:47:31+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"8572469_20260508164440000_nst.JPG","new_name":"8572469_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T20:47:31+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"8572469_20260508164945000_nst.JPG","new_name":"8572469_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T20:47:31+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"8572469_20260508165112000_nst.JPG","new_name":"8572469_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T20:47:31+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"8572469_8572469000_nst.pdf","new_name":"8572469_nst000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T20:47:31+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"c0000000000012_20260508165210000_nst.JPG","new_name":"c0000000000012_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T20:47:31+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"h123456789_20260508165426000_nst.JPG","new_name":"h123456789_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T20:47:46+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"10_nst000_nst.pdf","new_name":"10_nst000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T20:47:46+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"112233445566_nst000_nst.JPG","new_name":"112233445566_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T20:47:46+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"20_nst000_nst.pdf","new_name":"20_nst000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T20:47:46+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"30_nst000_nst.pdf","new_name":"30_nst000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T20:47:46+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"40_nst000_nst.pdf","new_name":"40_nst000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T20:47:46+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"50_nst000_nst.pdf","new_name":"50_nst000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T20:47:46+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"60_nst000_nst.pdf","new_name":"60_nst000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T20:47:46+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"857246912301_nst000_nst.JPG","new_name":"857246912301_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T20:47:46+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"8572469_nst000_nst.JPG","new_name":"8572469_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T20:47:46+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"8572469_nst000_nst.pdf","new_name":"8572469_nst000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T20:47:46+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"c0000000000012_nst000_nst.JPG","new_name":"c0000000000012_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T20:47:46+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"h123456789_nst000_nst.JPG","new_name":"h123456789_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T20:56:42+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"10_nst000_nst.pdf","new_name":"10_nst000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T20:56:42+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"112233445566_nst000_nst.JPG","new_name":"112233445566_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T20:56:42+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"20_nst000_nst.pdf","new_name":"20_nst000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T20:56:42+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"30_nst000_nst.pdf","new_name":"30_nst000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T20:56:42+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"40_nst000_nst.pdf","new_name":"40_nst000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T20:56:42+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"50_nst000_nst.pdf","new_name":"50_nst000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T20:56:42+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"60_nst000_nst.pdf","new_name":"60_nst000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T20:56:42+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"857246912301_nst000_nst.JPG","new_name":"857246912301_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T20:56:42+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"8572469_nst000_nst.JPG","new_name":"8572469_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T20:56:42+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"8572469_nst000_nst.pdf","new_name":"8572469_nst000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T20:56:42+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"c0000000000012_nst000_nst.JPG","new_name":"c0000000000012_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T20:56:42+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"h123456789_nst000_nst.JPG","new_name":"h123456789_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T20:57:37+02:00","msg":"เริ่มระบบ Middleware Service... เฝ้าระวังโฟลเดอร์: C:\\rename/JPEG"}
+{"level":"info","timestamp":"2026-05-09T20:57:52+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"10_nst000_nst.pdf","new_name":"10_nst000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T20:57:52+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"112233445566_nst000_nst.JPG","new_name":"112233445566_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T20:57:52+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"20_nst000_nst.pdf","new_name":"20_nst000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T20:57:52+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"30_nst000_nst.pdf","new_name":"30_nst000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T20:57:52+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"40_nst000_nst.pdf","new_name":"40_nst000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T20:57:52+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"50_nst000_nst.pdf","new_name":"50_nst000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T20:57:52+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"60_nst000_nst.pdf","new_name":"60_nst000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T20:57:52+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"857246912301_nst000_nst.JPG","new_name":"857246912301_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T20:57:52+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"8572469_nst000_nst.JPG","new_name":"8572469_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T20:57:52+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"8572469_nst000_nst.pdf","new_name":"8572469_nst000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T20:57:52+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"c0000000000012_nst000_nst.JPG","new_name":"c0000000000012_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T20:57:52+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"h123456789_nst000_nst.JPG","new_name":"h123456789_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T20:58:07+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"10_nst000_nst.pdf","new_name":"10_nst000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T20:58:07+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"112233445566_nst000_nst.JPG","new_name":"112233445566_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T20:58:07+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"20_nst000_nst.pdf","new_name":"20_nst000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T20:58:08+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"30_nst000_nst.pdf","new_name":"30_nst000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T20:58:08+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"40_nst000_nst.pdf","new_name":"40_nst000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T20:58:08+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"50_nst000_nst.pdf","new_name":"50_nst000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T20:58:08+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"60_nst000_nst.pdf","new_name":"60_nst000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T20:58:08+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"857246912301_nst000_nst.JPG","new_name":"857246912301_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T20:58:08+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"8572469_nst000_nst.JPG","new_name":"8572469_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T20:58:08+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"8572469_nst000_nst.pdf","new_name":"8572469_nst000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T20:58:08+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"c0000000000012_nst000_nst.JPG","new_name":"c0000000000012_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T20:58:08+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"h123456789_nst000_nst.JPG","new_name":"h123456789_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T20:58:13+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"h123456789_nst000_nst.JPG","new_name":"h123456789_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T20:58:23+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"h123456789_nst000_nst.JPG","new_name":"h123456789_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T21:01:06+02:00","msg":"เริ่มระบบ Middleware Service... เฝ้าระวังโฟลเดอร์: C:\\rename/JPEG"}
+{"level":"info","timestamp":"2026-05-09T21:01:09+02:00","msg":"เริ่มระบบ Middleware Service... เฝ้าระวังโฟลเดอร์: C:\\rename/JPEG"}
+{"level":"info","timestamp":"2026-05-09T21:02:29+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"112233445566.JPG","new_name":"112233445566_112233445566000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T21:02:29+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"857246912301_naitip_20260508165447.JPG","new_name":"857246912301_20260508165447000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T21:02:29+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"8572469_naitip_20260508164440.JPG","new_name":"8572469_20260508164440000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T21:02:29+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"8572469_naitip_20260508164945.JPG","new_name":"8572469_20260508164945000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T21:02:29+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"8572469_naitip_20260508165112.JPG","new_name":"8572469_20260508165112000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T21:02:29+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"c0000000000012_naitip_20260508165210.JPG","new_name":"c0000000000012_20260508165210000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T21:02:29+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"h123456789_naitip_20260508165426.JPG","new_name":"h123456789_20260508165426000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T21:02:50+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"10min.pdf","new_name":"10_10min000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T21:02:50+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"111.jpg","new_name":"111_111000_nst.jpg"}
+{"level":"info","timestamp":"2026-05-09T21:02:50+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"1123.jpg","new_name":"1123_1123000_nst.jpg"}
+{"level":"info","timestamp":"2026-05-09T21:02:50+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"1231231231231.jpg","new_name":"c1231231231231_1231231231231000_nst.jpg"}
+{"level":"info","timestamp":"2026-05-09T21:02:50+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"12345.jpg","new_name":"12345_12345000_nst.jpg"}
+{"level":"info","timestamp":"2026-05-09T21:02:50+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"20min.pdf","new_name":"20_20min000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T21:02:50+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"30min.pdf","new_name":"30_30min000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T21:02:50+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"40min.pdf","new_name":"40_40min000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T21:02:50+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"50min.pdf","new_name":"50_50min000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T21:02:50+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"60min.pdf","new_name":"60_60min000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T21:02:50+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"8572469_naitip_20260508164440.JPG","new_name":"8572469_20260508164440000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T21:02:50+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"8572469_naitip_20260508164945.JPG","new_name":"8572469_20260508164945000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T21:02:50+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"8572469_naitip_20260508165112.JPG","new_name":"8572469_20260508165112000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T21:02:50+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"8572469_naitip_20260508165210.JPG","new_name":"8572469_20260508165210000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T21:02:50+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"8572469_naitip_20260508165313.JPG","new_name":"8572469_20260508165313000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T21:02:50+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"8572469_naitip_20260508165426.JPG","new_name":"8572469_20260508165426000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T21:02:50+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"8572469_naitip_20260508165447.JPG","new_name":"8572469_20260508165447000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-09T21:02:50+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"90min.pdf","new_name":"90_90min000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T21:24:00+02:00","msg":"เริ่มระบบ Middleware Service... เฝ้าระวังโฟลเดอร์: C:\\rename/JPEG"}
+{"level":"info","timestamp":"2026-05-09T21:26:21+02:00","msg":"เริ่มระบบ Middleware Service... เฝ้าระวังโฟลเดอร์: C:\\rename/JPEG"}
+{"level":"info","timestamp":"2026-05-09T21:26:41+02:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"60_60min000_nst.pdf","new_name":"60_nst000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-09T21:27:13+02:00","msg":"เริ่มระบบ Middleware Service... เฝ้าระวังโฟลเดอร์: C:\\rename/JPEG"}
+{"level":"info","timestamp":"2026-05-11T02:32:09+00:00","msg":"เริ่มระบบ Middleware Service... เฝ้าระวังโฟลเดอร์: /Users/programmer/labolink/Rename-NST/JPEG"}
+{"level":"info","timestamp":"2026-05-11T02:32:09+00:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"c1231231231231_1231231231231000_nst.jpg","new_name":"c1231231231231_nst000_nst.jpg"}
+{"level":"info","timestamp":"2026-05-11T02:32:09+00:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"h123456789_20260508165426000_nst.JPG","new_name":"h123456789_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T02:32:09+00:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"h123456789_nst000_nst.JPG","new_name":"h123456789_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T02:32:46+00:00","msg":"เริ่มระบบ Middleware Service... เฝ้าระวังโฟลเดอร์: /Users/programmer/labolink/Rename-NST/JPEG"}
+{"level":"info","timestamp":"2026-05-11T02:32:46+00:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"857246912301_naitip_20260508165447.JPG","new_name":"857246912301_20260508165447000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T02:32:46+00:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"c0000000000012_naitip_20260508165210.JPG","new_name":"c0000000000012_20260508165210000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T02:32:46+00:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"h123456789_naitip_20260508165426.JPG","new_name":"h123456789_20260508165426000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T02:35:11+00:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"60min.pdf","new_name":"60_60min000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-11T02:35:51+00:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"85724691.pdf","new_name":"85724691_85724691000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-11T02:39:26+00:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"h123456789.pdf","new_name":"h123456789_h123456789000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-11T02:43:18+00:00","msg":"เริ่มระบบ Middleware Service... เฝ้าระวังโฟลเดอร์: /Users/programmer/labolink/Rename-NST/JPEG"}
+{"level":"info","timestamp":"2026-05-11T02:43:18+00:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"h123456789.pdf","new_name":"h123456789_h123456789000_nst_20260511024317000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-11T02:48:23+00:00","msg":"เริ่มระบบ Middleware Service... เฝ้าระวังโฟลเดอร์: /Users/programmer/labolink/Rename-NST/JPEG"}
+{"level":"info","timestamp":"2026-05-11T02:48:23+00:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"123456789.pdf","new_name":"123456789_20260511024801000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-11T02:48:23+00:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"857246912301_naitip_20260508165447.JPG","new_name":"857246912301_20260508165447000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T02:48:23+00:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"h123456789.pdf","new_name":"h123456789_20260511024742000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-11T02:48:53+00:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"c0000000000012_naitip_20260508165210.JPG","new_name":"c0000000000012_20260508165210000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T03:28:56+00:00","msg":"เริ่มระบบ Middleware Service... เฝ้าระวังโฟลเดอร์: /Users/programmer/labolink/Rename-NST/JPEG"}
+{"level":"info","timestamp":"2026-05-11T03:29:18+00:00","msg":"เริ่มระบบ Middleware Service... เฝ้าระวังโฟลเดอร์: /Users/programmer/labolink/Rename-NST/JPEG"}
+{"level":"info","timestamp":"2026-05-11T03:30:27+00:00","msg":"เริ่มระบบ Middleware Service... เฝ้าระวังโฟลเดอร์: /Users/programmer/labolink/Rename-NST/JPEG"}
+{"level":"info","timestamp":"2026-05-11T03:30:52+00:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"1231231231231.jpg","new_name":"c1231231231231_1231231231231000_nst.jpg"}
+{"level":"info","timestamp":"2026-05-11T03:30:52+00:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"8572469_naitip_20260508164440.JPG","new_name":"8572469_20260508164440000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T03:30:52+00:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"8572469_naitip_20260508164945.JPG","new_name":"8572469_20260508164945000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T03:30:52+00:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"8572469_naitip_20260508165112.JPG","new_name":"8572469_20260508165112000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T03:30:52+00:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"8572469_naitip_20260508165210.JPG","new_name":"8572469_20260508165210000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T03:30:52+00:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"8572469_naitip_20260508165313.JPG","new_name":"8572469_20260508165313000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T03:30:52+00:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"8572469_naitip_20260508165426.JPG","new_name":"8572469_20260508165426000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T03:30:52+00:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"8572469_naitip_20260508165447.JPG","new_name":"8572469_20260508165447000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T03:30:52+00:00","msg":"ลบไฟล์เก่าอายุเกิน 1 เดือน สำเร็จ","deleted_file":"123456789_20260511024801000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-11T03:30:52+00:00","msg":"ลบไฟล์เก่าอายุเกิน 1 เดือน สำเร็จ","deleted_file":"857246912301_20260508165447000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T03:30:52+00:00","msg":"ลบไฟล์เก่าอายุเกิน 1 เดือน สำเร็จ","deleted_file":"8572469_20260508164440000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T03:30:52+00:00","msg":"ลบไฟล์เก่าอายุเกิน 1 เดือน สำเร็จ","deleted_file":"8572469_20260508164945000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T03:30:52+00:00","msg":"ลบไฟล์เก่าอายุเกิน 1 เดือน สำเร็จ","deleted_file":"8572469_20260508165112000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T03:30:52+00:00","msg":"ลบไฟล์เก่าอายุเกิน 1 เดือน สำเร็จ","deleted_file":"8572469_20260508165210000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T03:30:52+00:00","msg":"ลบไฟล์เก่าอายุเกิน 1 เดือน สำเร็จ","deleted_file":"8572469_20260508165313000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T03:30:52+00:00","msg":"ลบไฟล์เก่าอายุเกิน 1 เดือน สำเร็จ","deleted_file":"8572469_20260508165426000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T03:30:52+00:00","msg":"ลบไฟล์เก่าอายุเกิน 1 เดือน สำเร็จ","deleted_file":"8572469_20260508165447000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T03:30:52+00:00","msg":"ลบไฟล์เก่าอายุเกิน 1 เดือน สำเร็จ","deleted_file":"c0000000000012_20260508165210000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T03:30:52+00:00","msg":"ลบไฟล์เก่าอายุเกิน 1 เดือน สำเร็จ","deleted_file":"c1231231231231_1231231231231000_nst.jpg"}
+{"level":"info","timestamp":"2026-05-11T03:30:52+00:00","msg":"ลบไฟล์เก่าอายุเกิน 1 เดือน สำเร็จ","deleted_file":"h123456789_20260511024742000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-11T03:30:52+00:00","msg":"ลบไฟล์เก่าอายุเกิน 1 เดือน สำเร็จ","deleted_file":"10min.pdf"}
+{"level":"info","timestamp":"2026-05-11T03:30:52+00:00","msg":"ลบไฟล์เก่าอายุเกิน 1 เดือน สำเร็จ","deleted_file":"111.jpg"}
+{"level":"info","timestamp":"2026-05-11T03:30:52+00:00","msg":"ลบไฟล์เก่าอายุเกิน 1 เดือน สำเร็จ","deleted_file":"1123.jpg"}
+{"level":"info","timestamp":"2026-05-11T03:30:52+00:00","msg":"ลบไฟล์เก่าอายุเกิน 1 เดือน สำเร็จ","deleted_file":"12345.jpg"}
+{"level":"info","timestamp":"2026-05-11T03:30:52+00:00","msg":"ลบไฟล์เก่าอายุเกิน 1 เดือน สำเร็จ","deleted_file":"20min.pdf"}
+{"level":"info","timestamp":"2026-05-11T03:30:52+00:00","msg":"ลบไฟล์เก่าอายุเกิน 1 เดือน สำเร็จ","deleted_file":"30min.pdf"}
+{"level":"info","timestamp":"2026-05-11T03:30:52+00:00","msg":"ลบไฟล์เก่าอายุเกิน 1 เดือน สำเร็จ","deleted_file":"40min.pdf"}
+{"level":"info","timestamp":"2026-05-11T03:30:52+00:00","msg":"ลบไฟล์เก่าอายุเกิน 1 เดือน สำเร็จ","deleted_file":"50min.pdf"}
+{"level":"info","timestamp":"2026-05-11T03:30:52+00:00","msg":"ลบไฟล์เก่าอายุเกิน 1 เดือน สำเร็จ","deleted_file":"60min.pdf"}
+{"level":"info","timestamp":"2026-05-11T03:30:52+00:00","msg":"ลบไฟล์เก่าอายุเกิน 1 เดือน สำเร็จ","deleted_file":"90min.pdf"}
+{"level":"info","timestamp":"2026-05-11T03:30:52+00:00","msg":"ลบไฟล์เก่าอายุเกิน 1 เดือน สำเร็จ","deleted_file":"error.log"}
+{"level":"info","timestamp":"2026-05-11T03:30:52+00:00","msg":"ลบไฟล์เก่าอายุเกิน 1 เดือน สำเร็จ","deleted_file":"logs_err.log"}
+{"level":"info","timestamp":"2026-05-11T03:30:52+00:00","msg":"ลบไฟล์เก่าอายุเกิน 1 เดือน สำเร็จ","deleted_file":"out.log"}
+{"level":"info","timestamp":"2026-05-11T03:31:27+00:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"c0000000000012_naitip_20260508165210.JPG","new_name":"c0000000000012_20260508165210000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T03:31:27+00:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"h123456789.pdf","new_name":"h123456789_20260511033123000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-11T03:31:27+00:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"h123456789_naitip_20260508165426.JPG","new_name":"h123456789_20260508165426000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T03:32:59+00:00","msg":"เริ่มระบบ Middleware Service... เฝ้าระวังโฟลเดอร์: /Users/programmer/labolink/Rename-NST/JPEG"}
+{"level":"info","timestamp":"2026-05-11T03:32:59+00:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"c0000000000012_20260508165210000_nst.JPG","new_name":"c0000000000012_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T03:32:59+00:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"h123456789_20260508165426000_nst.JPG","new_name":"h123456789_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T03:32:59+00:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"h123456789_20260511033123000_nst.pdf","new_name":"h123456789_20260511033257000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-11T03:37:31+00:00","msg":"เริ่มระบบ Middleware Service... เฝ้าระวังโฟลเดอร์: /Users/programmer/labolink/Rename-NST/JPEG"}
+{"level":"info","timestamp":"2026-05-11T03:37:31+00:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"c0000000000012_20260508165210000_nst.JPG","new_name":"c0000000000012_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T03:37:31+00:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"c0000000000012_nst000_nst.JPG","new_name":"c0000000000012_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T03:37:31+00:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"h123456789_20260508165426000_nst.JPG","new_name":"h123456789_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T03:37:31+00:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"h123456789_20260511033123000_nst.pdf","new_name":"h123456789_20260511033123000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-11T03:37:31+00:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"h123456789_20260511033257000_nst.pdf","new_name":"h123456789_20260511033257000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-11T03:37:31+00:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"h123456789_nst000_nst.JPG","new_name":"h123456789_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T03:38:12+00:00","msg":"เริ่มระบบ Middleware Service... เฝ้าระวังโฟลเดอร์: /Users/programmer/labolink/Rename-NST/JPEG"}
+{"level":"info","timestamp":"2026-05-11T03:38:35+00:00","msg":"เริ่มระบบ Middleware Service... เฝ้าระวังโฟลเดอร์: /Users/programmer/labolink/Rename-NST/JPEG"}
+{"level":"info","timestamp":"2026-05-11T03:38:35+00:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"c0000000000012_nst000_nst.JPG","new_name":"c0000000000012_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T03:38:35+00:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"h123456789_20260511033123000_nst.pdf","new_name":"h123456789_20260511033123000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-11T03:38:35+00:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"h123456789_20260511033257000_nst.pdf","new_name":"h123456789_20260511033257000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-11T03:38:35+00:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"h123456789_nst000_nst.JPG","new_name":"h123456789_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T03:43:40+00:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"c0000000000012_nst000_nst.JPG","new_name":"c0000000000012_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T03:43:40+00:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"h123456789_20260511033123000_nst.pdf","new_name":"h123456789_20260511033123000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-11T03:43:40+00:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"h123456789_20260511033257000_nst.pdf","new_name":"h123456789_20260511033257000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-11T03:43:40+00:00","msg":"ประมวลผลไฟล์สำเร็จ","original":"h123456789_nst000_nst.JPG","new_name":"h123456789_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T03:44:37+00:00","msg":"เริ่มระบบ Middleware Service... เฝ้าระวังโฟลเดอร์: /Users/programmer/labolink/Rename-NST/JPEG"}
+{"level":"info","timestamp":"2026-05-11T03:44:37+00:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"c0000000000012_nst000_nst.JPG","new_name":"c0000000000012_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T03:44:37+00:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"h123456789_20260511033123000_nst.pdf","new_name":"h123456789_20260511033123000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-11T03:44:37+00:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"h123456789_20260511033257000_nst.pdf","new_name":"h123456789_20260511033257000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-11T03:44:37+00:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"h123456789_nst000_nst.JPG","new_name":"h123456789_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T03:45:43+00:00","msg":"เริ่มระบบ Middleware Service... เฝ้าระวังโฟลเดอร์: /Users/programmer/labolink/Rename-NST/JPEG"}
+{"level":"info","timestamp":"2026-05-11T03:45:43+00:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"112233445566.JPG","new_name":"112233445566_112233445566000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T03:45:43+00:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"123456789.pdf","new_name":"123456789_20260511034542000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-11T03:45:43+00:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"857246912301_naitip_20260508165447.JPG","new_name":"857246912301_20260508165447000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T03:46:18+00:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"1234567891234.pdf","new_name":"c1234567891234_20260511034617000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-11T03:56:17+00:00","msg":"เริ่มระบบ Middleware Service... เฝ้าระวังโฟลเดอร์: /Users/programmer/labolink/Rename-NST/JPEG"}
+{"level":"info","timestamp":"2026-05-11T03:56:17+00:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"112233445566_112233445566000_nst.JPG","new_name":"112233445566_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T03:56:17+00:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"123456789_20260511034542000_nst.pdf","new_name":"123456789_20260511034542000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-11T03:56:17+00:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"857246912301_20260508165447000_nst.JPG","new_name":"857246912301_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T03:56:17+00:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"c1234567891234_20260511034617000_nst.pdf","new_name":"c1234567891234_20260511034617000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-11T04:01:29+00:00","msg":"เริ่มระบบ Middleware Service... เฝ้าระวังโฟลเดอร์: /Users/programmer/labolink/Rename-NST/JPEG"}
+{"level":"info","timestamp":"2026-05-11T04:01:29+00:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"112233445566_nst000_nst.JPG","new_name":"112233445566_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T04:01:29+00:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"123456789_20260511034542000_nst.pdf","new_name":"123456789_20260511034542000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-11T04:01:29+00:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"857246912301_nst000_nst.JPG","new_name":"857246912301_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T04:01:29+00:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"c1234567891234_20260511034617000_nst.pdf","new_name":"c1234567891234_20260511034617000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-11T04:01:59+00:00","msg":"เริ่มระบบ Middleware Service... เฝ้าระวังโฟลเดอร์: /Users/programmer/labolink/Rename-NST/JPEG"}
+{"level":"info","timestamp":"2026-05-11T04:01:59+00:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"112233445566_nst000_nst.JPG","new_name":"112233445566_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T04:01:59+00:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"123456789_20260511034542000_nst.pdf","new_name":"123456789_20260511034542000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-11T04:01:59+00:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"857246912301_nst000_nst.JPG","new_name":"857246912301_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T04:01:59+00:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"c1234567891234_20260511034617000_nst.pdf","new_name":"c1234567891234_20260511034617000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-11T04:02:19+00:00","msg":"เริ่มระบบ Middleware Service... เฝ้าระวังโฟลเดอร์: /Users/programmer/labolink/Rename-NST/JPEG"}
+{"level":"info","timestamp":"2026-05-11T04:02:19+00:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"112233445566_nst000_nst.JPG","new_name":"112233445566_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T04:02:19+00:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"123456789_20260511034542000_nst.pdf","new_name":"123456789_20260511034542000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-11T04:02:19+00:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"857246912301_nst000_nst.JPG","new_name":"857246912301_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T04:02:19+00:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"c1234567891234_20260511034617000_nst.pdf","new_name":"c1234567891234_20260511034617000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-11T04:07:38+00:00","msg":"เริ่มระบบ Middleware Service... เฝ้าระวังโฟลเดอร์: /Users/programmer/labolink/Rename-NST/JPEG"}
+{"level":"info","timestamp":"2026-05-11T04:07:38+00:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"c0000000000012_naitip_20260508165210.JPG","new_name":"c0000000000012_20260508165210000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T04:07:38+00:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"h123456789.pdf","new_name":"h123456789_20260511040736000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-11T04:07:38+00:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"h123456789_naitip_20260508165426.JPG","new_name":"h123456789_20260508165426000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T09:39:25+02:00","msg":"เริ่มระบบ Middleware Service... เฝ้าระวังโฟลเดอร์: D:\\New folder (2)\\Rename-NST\\Rename-NST/JPEG"}
+{"level":"info","timestamp":"2026-05-11T11:12:12+02:00","msg":"เริ่มระบบ Middleware Service... เฝ้าระวังโฟลเดอร์: D:\\New folder (2)\\Rename-NST\\Rename-NST/JPEG"}
+{"level":"info","timestamp":"2026-05-11T11:13:17+02:00","msg":"เริ่มระบบ Middleware Service... เฝ้าระวังโฟลเดอร์: D:\\New folder (2)\\Rename-NST\\Rename-NST/JPEG"}
+{"level":"info","timestamp":"2026-05-11T11:13:32+02:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"c0000000000012_20260508165210000_nst.JPG","new_name":"c0000000000012_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T11:13:32+02:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"h123456789_20260508165426000_nst.JPG","new_name":"h123456789_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T11:13:32+02:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"h123456789_20260511040736000_nst.pdf","new_name":"h123456789_20260511093430000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-11T11:13:52+02:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"c0000000000012_nst000_nst.JPG","new_name":"c0000000000012_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T11:13:52+02:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"h123456789_20260511093430000_nst.pdf","new_name":"h123456789_20260511093430000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-11T11:13:52+02:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"h123456789_nst000_nst.JPG","new_name":"h123456789_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T11:15:21+02:00","msg":"เริ่มระบบ Middleware Service... เฝ้าระวังโฟลเดอร์: D:\\New folder (2)\\Rename-NST\\Rename-NST/JPEG"}
+{"level":"info","timestamp":"2026-05-11T11:15:31+02:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"c0000000000012_nst000_nst.JPG","new_name":"c0000000000012_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-11T11:15:31+02:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"h123456789_20260511093430000_nst.pdf","new_name":"h123456789_20260511093430000_nst.pdf"}
+{"level":"info","timestamp":"2026-05-11T11:15:31+02:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"h123456789_nst000_nst.JPG","new_name":"h123456789_nst000_nst.JPG"}
+{"level":"info","timestamp":"2026-05-12T02:21:11+00:00","msg":"เริ่มระบบ Middleware Service... เฝ้าระวังโฟลเดอร์: /Users/programmer/Ekg/Rename-Ekg/JPEG"}
+{"level":"info","timestamp":"2026-05-12T02:21:11+00:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"34565677_20260327163808.bmp","new_name":"34565677_20260327163808000_ekg.bmp","type":"AN"}
+{"level":"info","timestamp":"2026-05-12T02:21:11+00:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"T3103991_20260324140307.jpg","new_name":"3103991_20260324140307000_ekg.jpg","type":"UNKNOWN"}
+{"level":"info","timestamp":"2026-05-12T02:21:11+00:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"T3103991_20260324140345.jpg","new_name":"3103991_20260324140345000_ekg.jpg","type":"UNKNOWN"}
+{"level":"info","timestamp":"2026-05-12T02:21:11+00:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"T3103991_20260324171205.jpg","new_name":"3103991_20260324171205000_ekg.jpg","type":"UNKNOWN"}
+{"level":"info","timestamp":"2026-05-12T02:23:15+00:00","msg":"เริ่มระบบ Middleware Service... เฝ้าระวังโฟลเดอร์: /Users/programmer/Ekg/Rename-Ekg/JPEG"}
+{"level":"info","timestamp":"2026-05-12T02:23:15+00:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"34565677_20260327163808.bmp","new_name":"34565677_20260327163808000_ekg.bmp","type":"UNKNOWN"}
+{"level":"info","timestamp":"2026-05-12T02:23:15+00:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"T3103991_20260324140307.jpg","new_name":"3103991_20260324140307000_ekg.jpg","type":"AN"}
+{"level":"info","timestamp":"2026-05-12T02:23:15+00:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"T3103991_20260324140345.jpg","new_name":"3103991_20260324140345000_ekg.jpg","type":"AN"}
+{"level":"info","timestamp":"2026-05-12T02:23:15+00:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"T3103991_20260324171205.jpg","new_name":"3103991_20260324171205000_ekg.jpg","type":"AN"}
+{"level":"info","timestamp":"2026-05-12T02:28:34+00:00","msg":"เริ่มระบบ Middleware Service... เฝ้าระวังโฟลเดอร์: /Users/programmer/Ekg/Rename-Ekg/JPEG"}
+{"level":"info","timestamp":"2026-05-12T02:28:34+00:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"34565677_20260327163808.bmp","new_name":"34565677_20260327163808000_ekg.bmp","type":"UNKNOWN"}
+{"level":"info","timestamp":"2026-05-12T02:28:34+00:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"T3103991_20260324140307.jpg","new_name":"h3103991_20260324140307000_ekg.jpg","type":"HN"}
+{"level":"info","timestamp":"2026-05-12T02:28:34+00:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"T3103991_20260324140345.jpg","new_name":"h3103991_20260324140345000_ekg.jpg","type":"HN"}
+{"level":"info","timestamp":"2026-05-12T02:28:34+00:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"T3103991_20260324171205.jpg","new_name":"h3103991_20260324171205000_ekg.jpg","type":"HN"}
+{"level":"info","timestamp":"2026-05-12T02:29:12+00:00","msg":"เริ่มระบบ Middleware Service... เฝ้าระวังโฟลเดอร์: /Users/programmer/Ekg/Rename-Ekg/JPEG"}
+{"level":"info","timestamp":"2026-05-12T02:29:12+00:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"5432134565677_20260327163808000_ekg.bmp","new_name":"c5432134565677_ekg_ekg.bmp","type":"CID"}
+{"level":"info","timestamp":"2026-05-12T02:30:12+00:00","msg":"เริ่มระบบ Middleware Service... เฝ้าระวังโฟลเดอร์: /Users/programmer/Ekg/Rename-Ekg/JPEG"}
+{"level":"info","timestamp":"2026-05-12T02:30:12+00:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"6543213103991_20260324140307.jpg","new_name":"c6543213103991_20260324140307000_ekg.jpg","type":"CID"}
+{"level":"info","timestamp":"2026-05-12T02:34:45+00:00","msg":"เริ่มระบบ Middleware Service... เฝ้าระวังโฟลเดอร์: /Users/programmer/Ekg/Rename-Ekg/JPEG"}
+{"level":"info","timestamp":"2026-05-12T02:34:45+00:00","msg":"ประมวลผลไฟล์สำเร็จและสำรองข้อมูลแล้ว","original":"h1234567_20260324171205.jpg","new_name":"h1234567_20260324171205000_ekg.jpg","type":"HN"}
