@@ -47,7 +47,7 @@ class Logger
         self::write('info', $message, $fields);
     }
 
-    public static function error(mixed $message, array $fields = []): void
+    public static function error($message, array $fields = []): void
     {
         if ($message instanceof \Throwable) {
             self::write('error', $message->getMessage(), $fields);

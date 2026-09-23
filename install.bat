@@ -9,7 +9,7 @@ cd /d "%~dp0"
 set "APP_DIR=%cd%"
 
 :: 2. ตั้งชื่อ Service (เปลี่ยนชื่อได้ตามต้องการ)
-set SERVICE_NAME=rename_service_ekg
+set SERVICE_NAME=rename_service_ecg_Thai_GL
 
 :: 3. ตรวจสอบสิทธิ์ Administrator
 net session >nul 2>&1

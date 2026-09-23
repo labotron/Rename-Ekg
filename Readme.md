@@ -8,17 +8,26 @@
 filepath:
   logs: "loggers/logs.log"
   logs_err: "logs/logs_err.log"
-  out_path: "HOSxP" #สำหรับ foldor ที่ Rename เส็จเเล้วจะไปวางนี่ Foldor นี้  .jpg
-  watcher: "JPEG" #สำหรับ foldor อ่านรูปภาพ .jpg
-  backup: "backup" #สำหรับ foldor Backup .jpg   มีอายุเก็บไฟล์ 1 เดือนหลังจากนั้นจะ Delete Auto
+  out_path: "HOSxP" #สำหรับ foldor ที่ Rename เส็จเเล้วจะไปวางนี่ Foldor นี้  .jpg , .pdf
+  watcher: "received" #สำหรับ foldor อ่านรูปภาพ .jpg , .pdf
+  backup: "backup" #สำหรับ foldor Backup .jpg , .pdf  มีอายุเก็บไฟล์ 1 เดือนหลังจากนั้นจะ Delete Auto
   failed: "failed" #สำหรับ foldor รูปภาพที่ Rename ไม่สำเร็จ  รอดูอาการและสามารถทำงานต่อได้
 format:
-  output: "{PREFIX}{ID}_{TIMESTAMP}_ekg{.ext}"
-length:
-  hn: 7
-  vn: 12
-  an: 9
-  cid: 13
+  output: "{PREFIX}{ID}_{fff}{.ext}"
+
+# กำหนดความยาว (len) ของ ID แต่ละประเภท
+length_config:
+  cid_len: 13
+  vn_len: 12
+  hn_len: 7
+  an_len: 9
+
+# กำหนดตัวอักษรนำหน้า (Prefix)
+prefix_config:
+  cid_prefix: "c"
+  vn_prefix: ""
+  hn_prefix: "h"
+  an_prefix: ""
 ```
 
 year: YYYY or YY

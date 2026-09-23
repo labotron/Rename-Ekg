@@ -2,13 +2,26 @@ filepath:
   logs: "loggers/logs.log"
   logs_err: "logs/logs_err.log"
   out_path: "HOSxP"
-  watcher: "JPEG"
+  watcher: "received"
   backup: "backup"
   failed: "failed"
+
 format:
-  output: "{PREFIX}{ID}_{TIMESTAMP}_ekg{.ext}"
-length:
-  hn: 7
-  vn: 12
-  an: 9
-  cid: 13
+  output: "{PREFIX}{ID}_{fff}{.ext}"
+
+# --- เพิ่มส่วนนี้เพื่อกำหนดจำนวนวันที่ต้องการเก็บไฟล์ Backup/Logs ---
+retention_config:
+  retention_days: 7
+
+length_config:
+  cid_len: 13
+  vn_len: 12
+  hn_len: 8
+  an_len: 10
+  pad_len: 9
+
+prefix_config:
+  cid_prefix: "c"
+  vn_prefix: ""
+  hn_prefix: ""
+  an_prefix: ""

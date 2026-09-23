@@ -5,7 +5,7 @@ echo       PHP Service Uninstaller
 echo ==========================================
 
 cd /d "%~dp0"
-set SERVICE_NAME=rename_service_ekg
+set SERVICE_NAME=rename_service_ecg_Thai_GL
 
 :: ตรวจสอบสิทธิ์ Administrator
 net session >nul 2>&1
